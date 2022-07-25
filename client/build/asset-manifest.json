@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd9c02c2.css",
+    "main.js": "/static/js/main.5486dc3f.js",
+    "static/media/clock-2696234_1920.jpg": "/static/media/clock-2696234_1920.35adcdb11cb98cc4e2aa.jpg",
+    "index.html": "/index.html",
+    "main.dd9c02c2.css.map": "/static/css/main.dd9c02c2.css.map",
+    "main.5486dc3f.js.map": "/static/js/main.5486dc3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd9c02c2.css",
+    "static/js/main.5486dc3f.js"
+  ]
+}

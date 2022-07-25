@@ -1,0 +1,21 @@
+{
+    "short_name":"Expense Tracker",
+    "name":"PWA Expense Tracker",
+    "icons":[
+        {
+            "src":"/images/analysis.png",
+            "type":"image/png",
+            "sizes":"512x512"
+        },
+        {
+            "src":"/images/analysis.png",
+            "type":"image/png",
+            "sizes":"256x256",
+            "purpose":"maskable"
+        }
+    ],
+    "start_url":".",
+    "display":"standalone",
+    "theme_color":"#000000",
+    "background_color":"#ffffff"
+}
